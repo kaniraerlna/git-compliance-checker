@@ -73,7 +73,7 @@ GIT-COMPLIANCE-CHECKER/
 ### Instalasi
 - Clone atau Download File
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kaniraerlna/git-compliance-checker.git
    cd git-compliance-checker
    ```
 
